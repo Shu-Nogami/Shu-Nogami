@@ -7,4 +7,5 @@
 <a href="https://github.com/Shu-Nogami/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Shu-Nogami&theme=onedark&column=-1" />
 </a>
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Shu-Nogami}&theme={github_dark}
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shu-Nogami&theme=github_dark" />
+
