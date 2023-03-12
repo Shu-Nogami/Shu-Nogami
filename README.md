@@ -5,5 +5,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Nogami&layout=compact&theme=dark" />
 </a>
 <a href="https://github.com/Shu-Nogami/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Shu-Nogami&theme=onedark" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Shu-Nogami&theme=onedark&row=1" />
 </a>
