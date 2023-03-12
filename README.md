@@ -9,4 +9,4 @@
 </a>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shu-Nogami&theme=github_dark" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shu-Nogami&theme=github_dark&utcOffset=9" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shu-Nogami&theme=github_dark" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shu-Nogami&theme=github_dark" />
